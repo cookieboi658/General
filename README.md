@@ -1,4 +1,4 @@
-# General
+# General Plan for Added Features
 
 Order of features that will be added:
 
